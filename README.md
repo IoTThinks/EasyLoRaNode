@@ -1,2 +1,2 @@
-# Easy LoRa Sensor
+# Easy LoRa Node
 Coming soon...
