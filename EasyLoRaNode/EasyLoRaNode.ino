@@ -6,8 +6,9 @@ void setup() {
   setupSpeaker();
   //setupButton();
   setupWiFi();
-  delay(10000);
+  delay(1000);
   setupOTA();
+  setupLoRa();
   onSpeaker();
   delay(500);
   offSpeaker();
@@ -22,6 +23,7 @@ void loop() {
   offLED_BLUE();
   delay(100);
 
+  sendLoRaMessage("Hello Easy LoRa Node");
   //onSpeaker();
   //delay(500);
   //offSpeaker();
