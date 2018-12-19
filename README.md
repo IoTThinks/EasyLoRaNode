@@ -24,4 +24,10 @@ Easy LoRa Node is an easy-to-use LoRa Node for home users and small businesses. 
 - 1 x Button
 - 1 x Speaker
 
+## 3. GPIOs
+![pinout_sht1x](https://user-images.githubusercontent.com/29994971/44208555-dc658680-a18a-11e8-82fa-e1f3a49495e1.png)
+
+## 4. Pin mappings
+![esp32_pin_function](https://user-images.githubusercontent.com/29994971/44208562-e091a400-a18a-11e8-9d75-117f988203c7.png)
+
 
