@@ -24,10 +24,11 @@ void loop() {
   delay(100);
 
   sendLoRaMessage("Hello Easy LoRa Node");
+  delay(500);
   //onSpeaker();
-  //delay(500);
+  //delay(100);
   //offSpeaker();
-  //delay(500);
+  //delay(100);
  
   //buttonPressed();
   waitingForOTA();
