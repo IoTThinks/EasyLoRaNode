@@ -1,5 +1,6 @@
 # Easy LoRa Node
 Easy LoRa Node is an easy-to-use LoRa Node for home users and small businesses. This node will use an ESP32 with Semtech LoRa SX1278 module Ra-02.
+- Homepage: http://iotthinks.com/easy-lora-node/
 - Open and single channel LoRa sensor node for long range IoT projects
 - Suitable for IoT engineers or partners to develop long range IoT sensor nodes.
 - Wiki: https://github.com/IoTThinks/EasyLoRaNode/wiki
@@ -9,8 +10,8 @@ Easy LoRa Node is an easy-to-use LoRa Node for home users and small businesses. 
 - Controlled by Easy LoRa gateway
 - Simple local management portal
 - Auto provision
-- Web Service APIs for integration
 - Auto update firmware via LAN or Internet
+- Web Service APIs for integration
 
 ## 2. Specifications
 ![loraspectre](https://user-images.githubusercontent.com/29994971/44208549-db345980-a18a-11e8-8557-5cd88867fa33.png)
