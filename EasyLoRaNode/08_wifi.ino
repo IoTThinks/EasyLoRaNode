@@ -1,6 +1,3 @@
-const char* ssid     = "Easy LoRa";
-const char* password = "EasyLoRa123";
-
 void WiFiEvent(WiFiEvent_t event)
 {  
   switch(event) {
